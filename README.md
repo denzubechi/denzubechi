@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Nzubechi</h1>
 <h3 align="center">I'm an Odyssey of a Software Engineer</h3>
 
-- 🔭 I’m currently working on **An Ecommerce project and a spotify clone**
+- 🔭 I’m currently working on **Something new🙂**
 
 - 🌱 I’m currently learning **Software Engineering, microservices, cloud development, UI/UX design**
 
