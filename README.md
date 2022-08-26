@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **learning new things**
 
-- 📝 I regularly write articles on [substack](substack)
+- 📝 I regularly write articles on [dev.to](https://dev.to/denzubechi)
 
 - 💬 Ask me about **react, python, node, databases, deplyment**
 
