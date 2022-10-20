@@ -1,8 +1,7 @@
 
 
 
-<h1 align="center">Hi there, I'm [Samuel Nzubechi](https://www.linkedin.com/in/samuel-nzubechi/) 👋</h1>
-<h3 align="center">I'm an Odyssey of a Software Engineer</h3>
+### Hi there, I'm [Samuel Nzubechi](https://www.linkedin.com/in/samuel-nzubechi/) 👋</h1>
 I am a Software Engineer with a background in Mechatronics Engineering. I love solving complex data and algorithmic problems and creating a dynamic approach to solving them - Student at Holberton School(ALX).
 
 - 🔭 I’m currently working on **Something new🙂**
